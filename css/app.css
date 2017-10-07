@@ -32,6 +32,9 @@ body{
 
 /*Footer*/
 
+.colorchange{
+	background-color: #3ae0a0
+}
 
 .portfolio-resume-spacing {
   margin-bottom: 2rem;
